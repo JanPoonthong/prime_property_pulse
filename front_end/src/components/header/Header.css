@@ -1,11 +1,11 @@
 nav {
-  display: flex;
-  align-items: center;
+    display: flex;
+    align-items: center;
 }
 
 .centered {
-   /* Allow the middle section to grow and center Page component */
-  flex: 1;
-  display: flex;
-  justify-content: center;
+    /* Allow the middle section to grow and center Page component */
+    flex: 1;
+    display: flex;
+    justify-content: center;
 }
